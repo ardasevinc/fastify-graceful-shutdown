@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hemerajs/fastify-graceful-shutdown.git"
+    "url": "git+https://github.com/ardasevinc/fastify-graceful-shutdown.git"
   },
   "keywords": [
     "web",
@@ -27,15 +27,15 @@
     "graceful",
     "shutdown"
   ],
-  "author": "Dustin Deus <deusdustin@gmail.com> (http://www.starptech.de)",
+  "author": "Arda Sevinc <arda@ardasevinc.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hemerajs/fastify-graceful-shutdown/issues"
+    "url": "https://github.com/ardasevinc/fastify-graceful-shutdown/issues"
   },
   "engines": {
     "node": ">=16.0.0"
   },
-  "homepage": "https://github.com/hemerajs/fastify-graceful-shutdown#readme",
+  "homepage": "https://github.com/ardasevinc/fastify-graceful-shutdown#readme",
   "devDependencies": {
     "@types/node": "^18",
     "chai": "^4.4.1",
