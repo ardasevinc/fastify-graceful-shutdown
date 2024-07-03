@@ -86,7 +86,7 @@ function fastifyGracefulShutdown(fastify, opts, next) {
       shutdown(signal)
     }
     registeredListeners.push({ signal, listener })
-    handlerEventListener.once(signal, listener)
+    handlerEventListener.on(signal, listener)
   })
 
   next()
