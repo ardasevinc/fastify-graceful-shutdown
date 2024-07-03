@@ -1,5 +1,5 @@
 {
-  "name": "fastify-graceful-shutdown",
+  "name": "@ardasevinc/fastify-graceful-shutdown",
   "version": "3.6.0",
   "description": "Gracefully shutdown fastify",
   "main": "index.js",
@@ -27,7 +27,11 @@
     "graceful",
     "shutdown"
   ],
-  "author": "Arda Sevinc <arda@ardasevinc.com>",
+  "author": {
+    "name": "Arda Sevinç",
+    "email": "arda@ardasevinc.com",
+    "url": "https://github.com/ardasevinc"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ardasevinc/fastify-graceful-shutdown/issues"
